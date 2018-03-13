@@ -1,5 +1,5 @@
 {
-  "name": " @sonukr/lstore",
+  "name": "sstore",
   "version": "1.0.0",
   "description": "A tiny localStorage wrapper to stroe data on browser in localStorege.",
   "main": "store.min.js",

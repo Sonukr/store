@@ -3,6 +3,15 @@ A tiny API wrapper for `localStorage` that lets you safely save numbers, arrays,
 
 
 ## Usage and API
+
+#### Include the store.min.js 
+
+```javascript 
+<script src="https://rawgit.com/Sonukr/store/master/store.min.js"></script>
+```
+
+#### Usage
+
 ```javascript
 
 // define some data
